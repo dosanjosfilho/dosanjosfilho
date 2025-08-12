@@ -88,9 +88,9 @@ Sou um **Cientista de Dados** com **5+ anos de experiência** especializado em *
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dosanjosfilho&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats-black-omega-56.vercel.app/api?username=dosanjosfilho&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dosanjosfilho&layout=compact&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats-black-omega-56.vercel.app//api/top-langs/?username=dosanjosfilho&layout=compact&theme=radical&count_private=true)
 
 ---
 
